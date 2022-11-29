@@ -1,0 +1,26 @@
+.titulo {
+  color:aliceblue;
+  background-color: rgb(164, 16, 201);
+}
+
+header {
+
+  padding: 1px;
+  margin: 1px;
+  background-color: rgb(164, 16, 201); 
+}
+
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.estilo {
+  background-color: rgb(233, 233, 211);
+  text-shadow: 1em;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  font-style: oblique;
+  
+}
